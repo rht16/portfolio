@@ -1,7 +1,7 @@
  export const skillsData = [
     'HTML',
    
-    'Figma',
+    
     'Javascript',
     'CSS',
     'React',
@@ -9,8 +9,6 @@
     'mongoDB',
     'NPM',
     'Git',
-    'C',
-    'Bootstrap',
     'MaterialUI'
 
 ]

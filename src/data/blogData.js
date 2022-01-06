@@ -1,4 +1,4 @@
-import seva from '../assets/svg/projects/seva.png'
+
 export const blogData = [
     {
         id: 1,

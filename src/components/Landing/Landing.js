@@ -7,7 +7,7 @@ import './Landing.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { headerData } from '../../data/headerData';
 import { socialsData } from '../../data/socialsData';
-import {change} from '../../data/themeData'
+
 import {
     FaTwitter,
     FaLinkedin,

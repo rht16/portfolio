@@ -1,4 +1,4 @@
-import boy from '../assets/svg/about/bwTheme-boy.svg'
+
 export const aboutData = {
     title: "Who I am",
     description1: "My name is Rohit Kumar. I'm a Full-stack Web Developer.",

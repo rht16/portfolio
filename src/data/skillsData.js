@@ -46,7 +46,7 @@
     WolframAlpha
     Adobe XD
     After Effects
-    Bootstrap
+    Bootstrapnpm 
     Bulma
     CapacitorJs
     Coffeescript

@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/fw11-262-Rohit.pdf'
+import resume from '../assets/pdf/rohit_resume.pdf'
 import masaipic from './rohit.png'
 export const headerData = {
     name: 'Rohit Kumar',

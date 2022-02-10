@@ -107,7 +107,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
                     }}
                 >
                     {tags.map((tag, id) => (
-                        <span key={id}>{tag}</span>
+                        <b key={id}>{tag}</b>
                     ))}
                 </div>
             </div>

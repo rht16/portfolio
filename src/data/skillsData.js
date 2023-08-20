@@ -1,6 +1,6 @@
  export const skillsData = [
     'HTML',
-   'Graphql,
+   'Graphql',
   'Next JS',
   'Docker',
   'PostgreSQL',

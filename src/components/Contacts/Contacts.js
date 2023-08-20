@@ -33,7 +33,7 @@ function Contacts() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
-  
+  const [number, setNumber] = useState()
   const [success] = useState(false);
   const [errMsg] = useState("");
 

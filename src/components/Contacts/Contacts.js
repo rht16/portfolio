@@ -40,6 +40,7 @@ function Contacts() {
   const { theme } = useContext(ThemeContext);
 
   const handleClose = (event, reason) => {
+    console.log(number)
     if (reason === "clickaway") {
       return;
     }

@@ -14,7 +14,7 @@
     'NPM',
     'Git',
     'MaterialUI',
-  'Bootstrap,
+  'Bootstrap',
 'Figma',
 ]
 

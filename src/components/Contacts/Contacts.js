@@ -33,9 +33,9 @@ function Contacts() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
-  const [number, setNumber] = useState("");
-  const [success, setSuccess] = useState(false);
-  const [errMsg, setErrMsg] = useState("");
+  
+  const [success] = useState(false);
+  const [errMsg] = useState("");
 
   const { theme } = useContext(ThemeContext);
 
@@ -417,8 +417,6 @@ function Contacts() {
     </div>
   );
 }
-function sendmail() {
-  console.log("yes");
-}
+
 
 export default Contacts;
